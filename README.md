@@ -1,1 +1,3 @@
-# codigos_CUF_LLM_NLP
+# Códigos para uso de NLP y LLM
+Creados por José Carlos Machicao
+Dictado de cursos
