@@ -1,0 +1,52 @@
+[
+  {
+    "aporte_texto": "El cambio climático amenaza la economía brasileña, especialmente su sector agrícola. La deforestación de la Amazonía exacerba el calentamiento global, alterando los patrones de lluvia vitales para la producción de soya y café. La mitigación a través de prácticas agrícolas sostenibles y la reforestación es crucial. Además, el aumento del nivel del mar pone en riesgo ciudades costeras como Río de Janeiro, afectando el turismo y la infraestructura. La transición a energías renovables, aprovechando el potencial hidroeléctrico y solar del país, podría mitigar estos impactos y crear nuevas oportunidades económicas.",
+    "pais": "Brasil",
+    "puntaje": 3
+  },
+  {
+    "aporte_texto": "México enfrenta desafíos económicos debido al cambio climático. El aumento de temperaturas afecta la producción agrícola, especialmente en regiones áridas del norte. La industria turística, vital para la economía, se ve amenazada por el blanqueamiento de corales en destinos como Cancún. Sin embargo, el análisis carece de una conexión clara entre estos factores y las políticas de mitigación específicas de México, como su compromiso con el Acuerdo de París.",
+    "pais": "México",
+    "puntaje": 2
+  },
+  {
+    "aporte_texto": "El cambio climático podría afectar la producción de carne en Argentina, un pilar de su economía. Los cambios en las precipitaciones podrían reducir los pastizales disponibles para el ganado. Esto podría llevar a una disminución en las exportaciones de carne. El análisis menciona factores relevantes para Argentina, pero no profundiza en conceptos críticos del cambio climático ni establece vínculos analíticos claros.",
+    "pais": "Argentina",
+    "puntaje": 1
+  },
+  {
+    "aporte_texto": "Chile enfrenta múltiples desafíos económicos debido al cambio climático. La industria vitivinícola, crucial para las exportaciones, se ve amenazada por el aumento de temperaturas y la sequía. La desertificación en el norte afecta la minería del cobre, otro pilar económico. Sin embargo, Chile lidera en energías renovables, con grandes inversiones en solar y eólica, mitigando emisiones y creando empleos verdes. La adaptación en agricultura y la gestión del agua son prioritarias para mantener la productividad frente al calentamiento global.",
+    "pais": "Chile",
+    "puntaje": 3
+  },
+  {
+    "aporte_texto": "El derretimiento de los glaciares andinos debido al calentamiento global amenaza el suministro de agua de Perú, afectando la agricultura y la generación hidroeléctrica. La pesca, un sector económico importante, se ve perjudicada por el cambio en las corrientes marinas y la acidificación de los océanos. El análisis menciona conceptos relevantes del cambio climático y factores específicos de Perú, pero no profundiza en las estrategias de mitigación o adaptación del país.",
+    "pais": "Perú",
+    "puntaje": 2
+  },
+  {
+    "aporte_texto": "El cambio climático podría afectar la producción de café en Colombia, un producto de exportación importante. Los cambios en los patrones de lluvia y temperatura podrían reducir las áreas aptas para el cultivo. Esto tendría un impacto en los ingresos de los agricultores y en la economía en general. El análisis menciona un factor relevante para Colombia, pero no profundiza en conceptos del cambio climático ni establece vínculos analíticos claros.",
+    "pais": "Colombia",
+    "puntaje": 1
+  },
+  {
+    "aporte_texto": "Ecuador enfrenta retos significativos debido al cambio climático. Las Islas Galápagos, crucial para el turismo, están amenazadas por el aumento del nivel del mar y el calentamiento de los océanos, afectando su única biodiversidad. La producción de cacao, un cultivo de exportación clave, se ve afectada por el aumento de temperaturas y cambios en los patrones de lluvia. Ecuador ha implementado estrategias de mitigación, como la iniciativa Yasuní-ITT para preservar la selva amazónica, demostrando un enfoque innovador en la lucha contra el cambio climático y la protección de su economía.",
+    "pais": "Ecuador",
+    "puntaje": 3
+  },
+  {
+    "aporte_texto": "La economía de Venezuela, dependiente del petróleo, podría verse afectada por las políticas globales de reducción de emisiones de carbono. Esto podría llevar a una disminución en la demanda de petróleo y, por lo tanto, en los ingresos del país. El análisis menciona un factor relevante para Venezuela, pero no profundiza en conceptos del cambio climático ni establece vínculos analíticos claros con la situación específica del país.",
+    "pais": "Venezuela",
+    "puntaje": 1
+  },
+  {
+    "aporte_texto": "Costa Rica, líder en ecoturismo, enfrenta desafíos económicos debido al cambio climático. El aumento de temperaturas y eventos climáticos extremos amenazan su biodiversidad, base de su atractivo turístico. Sin embargo, el país ha aprovechado esta crisis como oportunidad, implementando estrategias de mitigación como su ambicioso plan de descarbonización. La transición a energías renovables y la promoción de prácticas agrícolas sostenibles no solo reducen emisiones, sino que también crean nuevos sectores económicos verdes, posicionando a Costa Rica como un modelo de desarrollo sostenible.",
+    "pais": "Costa Rica",
+    "puntaje": 3
+  },
+  {
+    "aporte_texto": "Uruguay, con una economía basada en la agricultura y la ganadería, enfrenta riesgos debido al cambio climático. El aumento de temperaturas y la variabilidad en las precipitaciones afectan la productividad de cultivos como la soja y los pastos para el ganado. El país ha invertido significativamente en energías renovables, principalmente eólica, como estrategia de mitigación. El análisis menciona factores relevantes y conceptos de cambio climático, pero carece de una conexión más profunda entre estos elementos.",
+    "pais": "Uruguay",
+    "puntaje": 2
+  }
+]
