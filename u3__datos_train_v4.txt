@@ -1,0 +1,6 @@
+Perkoars are elements that make up a system of relationships that can vary depending on the number of perkoars near the center. 
+When this significant number of perkoars are far from the center, it is possible that a total blockage of the system's operation occurs. 
+Sometimes you can find some darguiens among the perkoars, you can notice the difference by their size and speed.
+Darguiens are faster than perkoars, but at the same time they have less capacity to change their route when they transit through the system. 
+During blockages it is important to have a certain number of darguiens because they are the ones that activate the blocked perkoars, whenever they spend some time near them. 
+During normal system operation it is very unlikely that large numbers of perkoars will gather because they naturally repel each other when they have normal behavior.
